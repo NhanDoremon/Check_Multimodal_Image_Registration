@@ -1,0 +1,8 @@
+*** Hướng dẫn kiểm tra độ overlap của datasets ***
+1. Thư mục hiện hành: /Journal_Datasets
+2. Chạy file code: python UI_Checking_Data.py
+3. Nhấn Browse và tìm đến các folder bên trong selected_data_image
+ *Folder phải có cú pháp: Data_Image_{Number}
+4. Kéo thanh Opactiy để thấy sự thay đổi của ảnh Thermal
+5. Các nút nhấn next, back để xem ảnh tiếp theo hoặc ảnh phía trước đã xem qua
+6. Nút Delete sẽ xóa cặp dữ liệu tương ứng
