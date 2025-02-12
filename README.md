@@ -8,7 +8,7 @@ The current directory should be:
 Execute the following command to run the script:  
 ```bash
 python UI_Checking_Data.py
-
+```
 ## 3. Browse for Data Folders
 Click on Browse and navigate to the folders inside selected_data_image.
 Folder names must follow the format: Data_Image_{Number}
